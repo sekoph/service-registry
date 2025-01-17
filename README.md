@@ -58,12 +58,12 @@ eureka.client.register-with-eureka=false
 
 
 
-### 5️⃣ Run the Eureka Server
+### 4️⃣ Run the Eureka Server
 ```sh
 mvn spring-boot:run
 ```
 
-### 6️⃣ Access Eureka Dashboard
+### 5️⃣ Access Eureka Dashboard
 Open your browser and navigate to:
 ```
 http://localhost:8761
@@ -76,8 +76,6 @@ http://localhost:8761
 3. Check Eureka Dashboard at `http://localhost:8761`
 4. See registered services under **Instances currently registered with Eureka**
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
 ## 🤝 Contributing
 Pull requests are welcome! Feel free to fork and improve the project.
